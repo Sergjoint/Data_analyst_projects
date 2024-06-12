@@ -17,4 +17,4 @@
 (https://github.com/Sergjoint/Data_analyst_projects/tree/main/SQL%20Запросы%20в%20сервисе%20для%20чтения%20книг%20по%20подписке)
 <https://github.com/Sergjoint/Cheat_sheets/edit/main/Markdown.md/> безанкерная ссылка
 
-Это [ссылка]( https://github.com/Sergjoint/Data_analyst_projects/blob/main/SQL%20Запросы%20в%20сервисе%20для%20чтения%20книг%20по%20подписке/SQL%20project.ipynb "Шпаргалка Markdown") с тайтлом.
+[SQL Запросы в сервисе для чтения книг по подписке]( https://github.com/Sergjoint/Data_analyst_projects/blob/main/SQL%20Запросы%20в%20сервисе%20для%20чтения%20книг%20по%20подписке/SQL%20project.ipynb "Шпаргалка Markdown")
